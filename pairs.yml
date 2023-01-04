@@ -1,0 +1,104 @@
+BTCUSDT:
+  leverage: 100
+  volume: 5000000
+  precision: 1
+ETHUSDT:
+  leverage: 100
+  volume: 2500000
+  precision: 1
+BNBUSDT:
+  leverage: 50
+  volume: 800000
+  precision: 2
+GMTUSDT:
+  leverage: 25
+  volume: 500000
+  precision: 4
+NEARUSDT:
+  leverage: 25
+  volume: 500000
+  precision: 3
+#SOLUSDT:
+#  leverage: 50
+#  volume: 500000
+#  precision: 2
+ATOMUSDT:
+  leverage: 25
+  volume: 300000
+  precision: 3
+DOTUSDT:
+  leverage: 50
+  volume: 500000
+  precision: 3
+FLOWUSDT:
+  leverage: 25
+  volume: 300000
+  precision: 3
+XRPUSDT:
+  leverage: 50
+  volume: 800000
+  precision: 4
+EOSUSDT:
+  leverage: 50
+  volume: 800000
+  precision: 3
+LTCUSDT:
+  leverage: 25
+  volume: 800000
+  precision: 2
+TRXUSDT:
+  leverage: 50
+  volume: 500000
+  precision: 5
+ADAUSDT:
+  leverage: 50
+  volume: 800000
+  precision: 4
+IOTAUSDT:
+  leverage: 25
+  volume: 500000
+  precision: 4
+#CRVUSDT:
+#  leverage: 50
+#  volume: 500000
+#  precision: 3
+LINKUSDT:
+  leverage: 50
+  volume: 800000
+  precision: 3
+XLMUSDT:
+  leverage: 25
+  volume: 500000
+  precision: 5
+DOGEUSDT:
+  leverage: 25
+  volume: 1000000
+  precision: 5
+MATICUSDT:
+  leverage: 25
+  volume: 500000
+  precision: 4
+CHZUSDT:
+  leverage: 25
+  volume: 500000
+  precision: 5
+DYDXUSDT:
+  leverage: 25
+  volume: 300000
+  precision: 3
+APEUSDT:
+  leverage: 25
+  volume: 500000
+  precision: 3
+SANDUSDT:
+  leverage: 50
+  volume: 500000
+  precision: 4
+FILUSDT:
+  leverage: 25
+  volume: 500000
+  precision: 3
+AVAXUSDT:
+  leverage: 25
+  volume: 500000
+  precision: 3
